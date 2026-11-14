@@ -1,0 +1,6 @@
+{
+  "name": "Scene Shadow: Speak Wild!",
+  "description": "Movie-clip English shadowing practice app featuring a scene from Zootopia for high school learners.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
